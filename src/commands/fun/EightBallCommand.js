@@ -9,7 +9,7 @@ module.exports = class CatusCodeCommand extends Command {
       group: "fun",
       memberName: "8ball",
       description: "Displays a random message from the magical discord 8-ball",
-      examples: ["catuscode 500", "catuscode 301"],
+      examples: ["8ball will I win the lottery?"],
       throttling: {
         usages: 1,
         duration: 10,

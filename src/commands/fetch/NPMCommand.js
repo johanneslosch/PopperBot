@@ -9,7 +9,7 @@ module.exports = class MDNCommand extends Command {
       group: "fetch",
       memberName: "npm",
       description: "Loads a package from the NPM registry and links ot it",
-      examples: ["mdn array slice"],
+      examples: ["npm lodash"],
       throttling: {
         usages: 1,
         duration: 10,
