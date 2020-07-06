@@ -1,4 +1,7 @@
 site_name: PropperBot
+site_author: Popper Family
+site_url: https://github.com/jodylecompte/PopperBot
+copyright: '© 2020 Popper Family MIT'
 nav:
   - Home: index.md
   - Commands: commands.md
