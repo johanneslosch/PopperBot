@@ -2,3 +2,11 @@ site_name: PropperBot
 nav:
   - Home: index.md
   - Commands: commands.md
+theme:
+  palette:
+    scheme: slate
+    primary: teal
+  name: material
+  font: false
+  feature:
+    tabs: true
