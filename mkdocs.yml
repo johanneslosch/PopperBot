@@ -2,6 +2,7 @@ site_name: PropperBot
 nav:
   - Home: index.md
   - Commands: commands.md
+  - Changelog: changelog.md
 theme:
   palette:
     scheme: slate
